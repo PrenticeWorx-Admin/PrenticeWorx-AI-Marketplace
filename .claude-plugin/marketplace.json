@@ -10,10 +10,10 @@
       "source": {
         "source": "npm",
         "package": "@prenticeworx/smartflows-mcp-server",
-        "version": "^1.0.0"
+        "version": "^1.0.3"
       },
       "description": "Experlogix SmartFlows API integration with MCP tools and form.io JavaScript patterns for legal document automation",
-      "version": "1.0.0",
+      "version": "1.0.3",
       "keywords": ["smartflows", "experlogix", "legal", "dynamics365", "document-automation"]
     }
   ]
